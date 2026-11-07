@@ -15,7 +15,7 @@ y el manejo de eventos del usuario.
 Requisitos: Python 3.10 o superior.
 
 ```bash
-git clone 
+git clone https://github.com/andrxs73/contador-interactivo
 cd contador-flet
 pip install -r requirements.txt
 python main.py
@@ -72,4 +72,4 @@ La clase `ContadorApp` construye la interfaz y contiene la lógica.
 - Sitio oficial: https://flet.dev
 
 ## Autor
-Tu nombre — Programación Orientada a Objetos
+Andres Bravo y Angel Terryl — Programación Orientada a Objetos
