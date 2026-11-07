@@ -15,7 +15,7 @@ y el manejo de eventos del usuario.
 Requisitos: Python 3.10 o superior.
 
 ```bash
-git clone https://github.com/andrxs73/contador-flet.git
+git clone 
 cd contador-flet
 pip install -r requirements.txt
 python main.py
